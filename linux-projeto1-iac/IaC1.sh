@@ -3,7 +3,7 @@
 # * Criacao de usuario  1.0                   *
 # * Author: Rodrigo Petterson                 *
 # * E-Mail: contato@linksky.com.br            *
-# * Date: 20-08-2022                          *
+# * Date: 19-08-2022                          *
 # *********************************************
 
 # CRIAÇÃO DE DIRETORIOS
