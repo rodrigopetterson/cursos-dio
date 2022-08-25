@@ -1,6 +1,6 @@
 #!/bin/bash
 # *********************************************
-# * Criacao de usuario  1.0                   *
+# * Criacao de usuario  2.0                   *
 # * Author: Rodrigo Petterson                 *
 # * E-Mail: contato@linksky.com.br            *
 # * Date: 20-08-2022                          *
